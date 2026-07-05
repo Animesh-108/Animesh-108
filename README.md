@@ -41,7 +41,8 @@
 | [my-blue-green-infra](https://github.com/Animesh-108/my-blue-green-infra) | Zero-downtime blue-green deployment infrastructure | Terraform, AWS |
 | [AWS-cicd-calculator-app](https://github.com/Animesh-108/AWS-cicd-calculator-app) | End-to-end CI/CD pipeline on AWS | Java, AWS CodePipeline |
 | [web-app-GitAction](https://github.com/Animesh-108/web-app-GitAction) | Automated build & deploy workflow with GitHub Actions | JavaScript, GitHub Actions |
-| [recomendation](https://github.com/Animesh-108/recomendation) | Recommendation system experiments | JavaScript, ML |
+| [recommendation-letters](https://github.com/Animesh-108/recommendation-letters) | Full-stack recommendation-letter management system — request, draft, audit workflows | React, Node.js, Tailwind |
+| [algo-trading-bot](https://github.com/Animesh-108/algo-trading-bot) | Trading research bot — market scanner, backtesting, risk management | Python |
 
 ### 📊 GitHub Stats
 
