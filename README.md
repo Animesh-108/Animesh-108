@@ -14,7 +14,8 @@ I build cloud infrastructure with security as a first-class concern — my goal 
 - 🛡️ Focused on **DevSecOps**: securing CI/CD pipelines, infrastructure-as-code scanning, secrets management, and least-privilege IAM
 - 🔄 Automate everything — GitHub Actions, AWS CodePipeline, containerized workloads
 - 📚 Currently deepening: **AWS security services** (GuardDuty, Security Hub, KMS, WAF), **Kubernetes security** (RBAC, network policies, pod security), and IaC scanning with **tfsec / Checkov / Trivy**
-- 📫 Reach me at **dey367846@gmail.com**
+- 🎓 BSc in Computer Science & Engineering — Daffodil International University (2026)
+- 📫 Reach me at **dey367846@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/animeshdey108)
 
 ### 🛠️ Tech Stack
 
