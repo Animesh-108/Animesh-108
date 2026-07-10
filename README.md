@@ -45,7 +45,8 @@ I build cloud infrastructure with security as a first-class concern — my goal 
 | [AWS-cicd-calculator-app](https://github.com/Animesh-108/AWS-cicd-calculator-app) | End-to-end AWS CI/CD with CodeArtifact as authenticated private registry | Supply-chain integrity, artifact authentication |
 | [my-app-repo](https://github.com/Animesh-108/my-app-repo) | GitOps workflow targeting separate Dev/Prod EKS clusters | Least-privilege environment separation |
 | [web-app-GitAction](https://github.com/Animesh-108/web-app-GitAction) | Node.js app with tested, containerized GitHub Actions pipeline | Pipeline hygiene, automated testing gates |
-| [algo-trading-bot](https://github.com/Animesh-108/algo-trading-bot) | Python trading research bot — scanner, backtesting, risk management | Risk controls, monitoring & alerting |
+| [my-full-stack-app](https://github.com/Animesh-108/my-full-stack-app) | Blue-green EKS releases gated by Prometheus canary analysis and manual approval | Metrics-gated rollout, automatic rollback |
+| [PollingApp-Devops-Project](https://github.com/Animesh-108/PollingApp-Devops-Project) | Five-service microservice architecture decoupled by a Redis queue | Service isolation, async fault tolerance |
 
 ### 📊 GitHub Stats
 
