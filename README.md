@@ -47,6 +47,7 @@ I build cloud infrastructure with security as a first-class concern — my goal 
 | [web-app-GitAction](https://github.com/Animesh-108/web-app-GitAction) | Node.js app with tested, containerized GitHub Actions pipeline | Pipeline hygiene, automated testing gates |
 | [my-full-stack-app](https://github.com/Animesh-108/my-full-stack-app) | Blue-green EKS releases gated by Prometheus canary analysis and manual approval | Metrics-gated rollout, automatic rollback |
 | [PollingApp-Devops-Project](https://github.com/Animesh-108/PollingApp-Devops-Project) | Five-service microservice architecture decoupled by a Redis queue | Service isolation, async fault tolerance |
+| [devops-lab](https://github.com/Animesh-108/devops-lab) | A practical Git manual for DevOps engineers, indexed by problem rather than by feature | Secret-leak response, signed commits, branch protection |
 
 ### 📊 GitHub Stats
 
